@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.0003a7aa.css",
+    "main.js": "/My-Portfolio/static/js/main.e401ea51.js",
+    "static/js/770.b477def6.chunk.js": "/My-Portfolio/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/My-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/avatar1.png": "/My-Portfolio/static/media/avatar1.24cc5561ffb28337c98a.png",
+    "static/media/CV - Hafid Roihan.pdf": "/My-Portfolio/static/media/CV - Hafid Roihan.41a38b9d66c928c19b0b.pdf",
+    "static/media/3.png": "/My-Portfolio/static/media/3.02b210a21b76071dfd9b.png",
+    "static/media/1.png": "/My-Portfolio/static/media/1.d79418d3f1781a7410f5.png",
+    "static/media/home-main.svg": "/My-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/5.png": "/My-Portfolio/static/media/5.b78fc37845cd09d90065.png",
+    "static/media/about.png": "/My-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/2.png": "/My-Portfolio/static/media/2.83854dda16e3354eb241.png",
+    "static/media/4.png": "/My-Portfolio/static/media/4.c9a0ee88981a9061e7be.png",
+    "static/media/home-bg.jpg": "/My-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/My-Portfolio/static/media/logo.dcdc824c2b39a6ce91d7.png",
+    "static/media/pre.svg": "/My-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.0003a7aa.css.map": "/My-Portfolio/static/css/main.0003a7aa.css.map",
+    "main.e401ea51.js.map": "/My-Portfolio/static/js/main.e401ea51.js.map",
+    "770.b477def6.chunk.js.map": "/My-Portfolio/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/My-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0003a7aa.css",
+    "static/js/main.e401ea51.js"
+  ]
+}
